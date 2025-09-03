@@ -69,3 +69,4 @@ coverage/
 *.temp
 *.orig
 Docker/postgres_password.txt
+.vs
